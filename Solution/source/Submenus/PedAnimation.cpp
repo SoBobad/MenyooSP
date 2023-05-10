@@ -1459,6 +1459,7 @@ namespace sub
 			{ "Injured", "mood_injured_1" },
 			{ "Stressed", "mood_stressed_1" },
 			{ "Joyful", "mood_dancing_low_1" },
+			{ "Smug", "mood_smug_1" },
 			{ "Sulk", "mood_sulk_1" },
 			{ "Sleeping", "mood_sleeping_1" },
 			{ "Drunk", "mood_drunk_1" },
